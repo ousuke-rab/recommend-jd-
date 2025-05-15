@@ -1,0 +1,30 @@
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #fafafa;
+}
+h1 {
+  text-align: center;
+}
+input {
+  width: 80%;
+  margin: 10px auto;
+  padding: 10px;
+  display: block;
+}
+.card {
+  background: #fff;
+  margin: 10px auto;
+  padding: 16px;
+  width: 80%;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+.like-btn {
+  background: #f06292;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
