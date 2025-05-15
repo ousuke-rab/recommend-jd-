@@ -4,11 +4,17 @@ const actresses = [
   { name: "瀬緒凛(21)", age: 21, work: "GNI-004 新人 瀬緒凛 2,710 9", likes: 0 },
   { name: "降矢あすか（21）", age: 21, work: "FSDSS-888 スペシャル 降矢あすか", likes: 0 },
   { name: "浜辺やよい", age: 30, work: "FNS-008スペシャル 浜辺やよい", likes: 7 },
-  { name: "天使もえ", age: 30, work: "もえもえ図書室", likes: 6 },
+  { name: "天使", age: 30, work: "もえもえ図書室", likes: 6 },
   { name: "篠田ゆう", age: 34, work: "雨の日の告白", likes: 5 },
   { name: "伊東ちなみ", age: 28, work: "恋と予感", likes: 6 },
   { name: "波多野結衣", age: 38, work: "誘惑マンション", likes: 11 },
-  { name: "涼森れむ", age: 26, work: "放課後プレイ", likes: 7 }
+  { name: "伊東優太", age: 26, work: "新幹線大爆発", likes: 7 },
+  {
+    name: "関連サイトはこちら。",
+    work: "新幹線大爆発",
+    likes: "5000兆",
+    link: "https://ruukrey1412.github.io/RuukRey1234.github.io/"
+  }
 ];
 
 const list = document.getElementById("list");
