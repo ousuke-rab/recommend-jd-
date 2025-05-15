@@ -8,7 +8,7 @@ const actresses = [
   { name: "篠田ゆう", age: 34, work: "雨の日の告白", likes: 5 },
   { name: "伊東ちなみ", age: 28, work: "恋と予感", likes: 6 },
   { name: "波多野結衣", age: 38, work: "誘惑マンション", likes: 11 },
-  { name: "伊東優太", age: 26, work: "新幹線大爆発", likes: 7 },
+  ］
   {
     name: "関連サイトはこちら。",
     work: "新幹線大爆発",
