@@ -37,11 +37,10 @@
 
   <script>
     const actresses = [
-      { name: "天神羽衣ちゃん（20）", age: 20, work: "START-323 今、の地元愛溢れる次世代スター！ 天神羽衣 AV DEBUT", likes: 0 },
-      { name: "一宮るい（21or22）", age: 21, work: "START294 ！華奢な体 一宮るい", likes: 0 },
-      { name: "瀬緒凛(21)", age: 21, work: "GNI-004 新人 瀬緒凛 2,710 9", likes: 0 },
-      { name: "降矢あすか（21）", age: 21, work: "FSDSS-888 スペシャル 降矢あすか", likes: 0 },
-      { name: "浜辺やよい", age: 30, work: "FNS-008スペシャル 浜辺やよい", likes: 7 },
+      { name: "天神羽衣ちゃん", age: 20, work: "START-323 今、の地元愛溢れる次世代スター！ 天神羽衣 AV DEBUT", likes: 0 },
+      { name: "一宮るい", age: 21, work: "START294 ！華奢な体 一宮るい", likes: 0 },
+      { name: "瀬緒凛", age: 21, work: "GNI-004 新人 瀬緒凛 2,710 9", likes: 0 },
+      { name: "降矢あすか", age: 21, work: "FSDSS-888 スペシャル 降矢あすか", likes: 0 }
     ];
 
     const list = document.getElementById("list");
